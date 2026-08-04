@@ -1,0 +1,29 @@
+location,metro_score,healthcare_score,education_score,environment_score,traffic_score,citylife_score
+Koramangala,0.0,10.0,10.0,10.0,7.0,7.4
+Indiranagar,10.0,0.0,10.0,7.0,7.0,6.8
+MG Road,10.0,0.0,10.0,7.0,7.0,6.8
+Bannerghatta Road,0.0,10.0,10.0,10.0,4.0,6.8
+Yelahanka,0.0,0.0,10.0,10.0,10.0,6.0
+Hebbal,0.0,10.0,0.0,7.0,7.0,4.8
+Electronic City,0.0,0.0,0.0,7.0,4.0,2.2
+Baiyappanahalli,10.0,0.0,0.0,0.0,0.0,2.0
+Old Airport Road,0.0,10.0,0.0,0.0,0.0,2.0
+Yelachenahalli,10.0,0.0,0.0,0.0,0.0,2.0
+Vidhana Soudha,10.0,0.0,0.0,0.0,0.0,2.0
+Ulsoor,10.0,0.0,0.0,0.0,0.0,2.0
+Sheshadripuram,0.0,10.0,0.0,0.0,0.0,2.0
+Sarjapur Road,0.0,0.0,10.0,0.0,0.0,2.0
+Richmond Road,0.0,0.0,10.0,0.0,0.0,2.0
+Peenya,10.0,0.0,0.0,0.0,0.0,2.0
+Mathikere,0.0,10.0,0.0,0.0,0.0,2.0
+Nagasandra,10.0,0.0,0.0,0.0,0.0,2.0
+Malleshwaram,10.0,0.0,0.0,0.0,0.0,2.0
+Majestic,10.0,0.0,0.0,0.0,0.0,2.0
+Kalbadevi,0.0,10.0,0.0,0.0,0.0,2.0
+Jayanagar,10.0,0.0,0.0,0.0,0.0,2.0
+Cubbon Park,10.0,0.0,0.0,0.0,0.0,2.0
+Bommasandra,0.0,10.0,0.0,0.0,0.0,2.0
+Yeshwanthpur,10.0,0.0,0.0,0.0,0.0,2.0
+Whitefield,0.0,0.0,0.0,5.0,4.0,1.8
+Marathahalli,0.0,0.0,0.0,0.0,4.0,0.8
+Silk Board,0.0,0.0,0.0,0.0,4.0,0.8
