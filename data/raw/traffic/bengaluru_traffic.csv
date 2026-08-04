@@ -1,0 +1,11 @@
+location,traffic_level,avg_delay_minutes
+Whitefield,High,45
+Electronic City,High,50
+Silk Board,High,55
+Marathahalli,High,40
+Indiranagar,Medium,25
+Koramangala,Medium,30
+Yelahanka,Low,15
+Hebbal,Medium,28
+MG Road,Medium,20
+Bannerghatta Road,High,42
